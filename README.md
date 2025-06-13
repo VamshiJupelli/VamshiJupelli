@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Vamshi Krishna Jupelli
+## 👋 Hi, I'm Vamshi Jupelli
 
 ### 🚀 Azure DevOps Engineer | Cloud Enthusiast | Backend Developer
 
