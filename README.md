@@ -53,4 +53,4 @@ Welcome to my GitHub! I’m a dedicated IT professional from Hyderabad, India, w
 
 ### 🌟 **Beyond Tech**
 
-When I’m not automating deployments or building APIs, you’ll find me diving into personal finance, exploring new movies, reading novels, or capturing moments through my lens.
+When I’m not automating deployments or building APIs, you’ll find me diving into personal finance, playing badminton, exploring new movies, reading novels, or capturing moments through my lens.
