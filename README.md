@@ -39,6 +39,7 @@ Welcome to my GitHub! I’m a dedicated IT professional from Hyderabad, India, w
 ### 🏆 **Certifications**
 - **AZ-400:** Microsoft Azure DevOps Engineer Expert
 - **AZ-104:** Microsoft Azure Administrator Associate
+- **AI-900:** Microsoft Azure AI Fundamentals
 - **AZ-900:** Microsoft Azure Fundamentals
 - **DP-900:** Microsoft Azure Data Fundamentals
 - **Google Analytics for Beginners**
